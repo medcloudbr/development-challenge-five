@@ -22,6 +22,7 @@ Medcloud's challenge for Java Backend Dev.
 ## Required
 
 - You need to develop the Rest API using Spring Boot.
+- You need to develop an API operation to query records (Patient's name, birth date, email and address) by patient email.
 - The API need to have validation by a password or other validation method of your choice. 
 
 ## What will be evaluated:
